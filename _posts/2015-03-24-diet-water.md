@@ -2,6 +2,7 @@
 layout: post
 title: "Diet Water!"
 date: 2015-03-23 13:30
+category: main
 ---
 
 Recipe still in QA.
@@ -14,3 +15,5 @@ Recipe still in QA.
 - [ ] Ingredients.
 - [ ] Directions.
 - [ ] Attributing author with images.
+
+:pizza: This is great! :ship: 
