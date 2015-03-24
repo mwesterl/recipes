@@ -10,6 +10,6 @@ Recipe still in QA.
 :smile:
 
 -[x] Template of recipe.
--[] Ingredients.
--[] Directions.
--[] Attributing author with images.
+-[ ] Ingredients.
+-[ ] Directions.
+-[ ] Attributing author with images.
